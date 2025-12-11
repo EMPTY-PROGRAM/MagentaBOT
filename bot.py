@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Токен бота и данные
-BOT_TOKEN = "token"
+BOT_TOKEN = "8569415996:AAGu8f247vSkNgz-yfN9MAcriT_L9f2Wf6I"
 ADMIN_CHAT_ID = 324232342
 ADMIN_USERNAME = "@MAGENTAOFFICIAL"
 CHANNEL_LINK = "https://t.me/MagentaFNS"
